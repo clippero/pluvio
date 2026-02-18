@@ -1,0 +1,7 @@
+{
+  "name": "PluvioTrack - Registro de Lluvia",
+  "description": "Una aplicación avanzada para monitorear el registro de lluvia caída en tu ubicación exacta utilizando inteligencia artificial y búsqueda en tiempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
